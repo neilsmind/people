@@ -22,7 +22,7 @@ Gem::Specification.new do |s|
      "README.rdoc",
      "Rakefile",
      "VERSION.yml",
-     "lib/people.rb",
+     "lib/people/name_parser.rb",
      "people.gemspec",
      "test/people_test.rb",
      "test/test_helper.rb"
